@@ -1,0 +1,2 @@
+file2 linia 1
+file2 linia 2
