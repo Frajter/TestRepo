@@ -3,4 +3,4 @@ linia 2
 file1 linia3
 file1 linia4
 Poprawka
-
+Zmian przez Frajter2
