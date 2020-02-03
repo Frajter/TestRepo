@@ -2,3 +2,5 @@ linia 1
 linia 2
 file1 linia3
 file1 linia4
+Poprawka
+
